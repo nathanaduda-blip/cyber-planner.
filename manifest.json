@@ -1,0 +1,16 @@
+{
+  "name": "Cyberpunk Weekly Planner",
+  "short_name": "CyberPlanner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#ff003c",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%230a0a0c'/><path fill='%23ff003c' d='M400 64h-32V32h-64v32H208V32h-64v32H112C85.5 64 64 85.5 64 112v320c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm0 368H112V208h288v224zm0-256H112v-64h288v64z'/><rect fill='%23ff003c' x='160' y='256' width='80' height='80'/><rect fill='%23ff003c' x='272' y='256' width='80' height='80'/><rect fill='%23ff003c' x='160' y='352' width='80' height='48'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
